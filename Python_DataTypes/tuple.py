@@ -1,5 +1,5 @@
 '''
-tuple -> it is an immutable collection of items. we cannot add,remove or modify,orded
+Tuple -> it is an immutable collection of items. we cannot add,remove or modify,orded
 '''
 
 #crete a tuple

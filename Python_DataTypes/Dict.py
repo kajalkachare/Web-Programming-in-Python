@@ -14,9 +14,9 @@ print(employee)
 print(type(student))
 print(type(employee))
 
-# #dictionary functions
-# #keys()
-# print(student.keys())
+#dictionary functions
+#keys()
+print(student.keys())
 
 #values()
 print(student.values())
@@ -43,10 +43,10 @@ print("============================================")
 for key,value in student.items():
     print(f"key:{key},values:{value}")
 
-'''diff btw dict and list
-dict collection of key value pair
+'''diff btw dictionary and list
+dictionary collection of key value pair
 list is ordered collection of items
-2.dict defined using{} and list []
-3.in dict keys are unique values can be duplicate
+2.dictionary  defined using {} and list []
+3.In Dictionary keys are unique values can be duplicate
 list allow duplicate values.
 '''
